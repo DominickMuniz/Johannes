@@ -20,17 +20,50 @@ Please go easy on the designs -- as I simply threw together these changes in the
 ## Screenshot 1: Collections' Page - Design
 This is screenshot showing the current Collections Page theme design (on the right), and on the left some minor edits I made that I think marginally improve it. You may need to click on the image to see it in full size. 
 1) Added Breadcrumbs (for navigation) on the top left of the page.
-2) I Modified the page tite's sizing, and font-weight to make it slightly bigger and bolder. 
+2) I Modified the page title's sizing, and font-weight to make it slightly bigger and bolder. 
 3) I wanted to design more of a "product card" look. I made the page background lightgray and the product image's background white to give each product some constrast. Ideally we keep the page background white, and make the product background lightgrey instead. However, that was one of the constraints I had doing it in the browser (unable to change the white product background without converting the images from JPG to a transparent PNG).
 4) I made each product card slightly larger (wider and taller) than they were by default to make the products easier to see.  
 5) Changed the font size and color of the product titles.
 6) Changed the font-weight of the price to make it bold. 
 
 
-### Screenshot of Edits (1 version annotated with pink highlights, the other is plain; click image to enlarge)
+### Screenshot of Comparison (1 version annotated with pink highlights, the other is plain; click image to enlarge)
 ![Collection Page Mockup](./Collection%20Page%20Mockup.png)
 
 
 &nbsp;
 &nbsp;
 ![Collection Page Mockup Annotated](./Collection%20Page%20Mockup%20%28annotated%29.png)
+
+
+
+
+
+
+## Screenshot 2: Product' Page - Design
+This is screenshot showing the current Collections Page theme design (on the right), and on the left some minor edits I made that I think marginally improve it. You may need to click on the image to see it in full size. 
+1) Added Breadcrumbs (for navigation) on the top left of the page.
+2) I modified the image's background by removing the white background and converting it to a PNG file format.
+3) I set the background to have rounded borders.
+4) I Modified the page product title's sizing, and font-weight to make it slightly bigger, yet slightly less bold.
+5) I made the product price bolded.
+6) Moved the SKU information under 'Additional Information'. I suggest writing more product details and a description to improve the feel of product pages. 
+7) I made the 'Add To Cart' button 100% width, changed the padding, font color, and make the button color something that yells "CLICK ME". Also made the button more rounded.
+8) I made the 'Add To Wishlist' button 100% width, rounded, made the border and font black.
+9) I edited the product recomendation' cards at the bottom of the page -- I added a lightgray border, made the 'Brand Name' and 'Price' bolder, and modified the line-spacing for the product title so it appears slightly closer together (which I thought seemed easier to read). 
+
+
+### Screenshot of Comparison
+![Product Page Mockup](./Product%20Page%20Mockup.png)
+
+
+
+
+
+
+
+
+
+
+
+
