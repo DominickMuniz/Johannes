@@ -27,7 +27,7 @@ This is screenshot showing the current Collections Page theme design (on the rig
 6) Changed the font-weight of the price to make it bold. 
 
 
-### Screenshot of Reflected Text 
+### Screenshot of Edits (1 version annotated with pink highlights, the other is plain; click image to enlarge)
 ![Collection Page Mockup](./Collection%20Page%20Mockup.png)
 
 
