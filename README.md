@@ -7,9 +7,11 @@ Just to host a few images of suggested/potential theme updates.
 I checked out your website's overall theme and design -- and looked it over on AHREFs to peek at it's organic performance, and to get an idea of the work already done on it. Overall it's a lovely website with a lot of time and effort put into it. It's growth in regard to organic visibility the last 1-2 years has been great. I noticed a few opportunities to make it even better. A few SEO related things sure -- but today I made this repository to exemplify some possible theme enhancements that are possible to make it POP just a little more. 
 
 &nbsp;
+&nbsp;
 
 Below I provide two screenshots to of some mockups/design changes I threw together to give you an idea of potential design changes. 
 
+&nbsp;
 &nbsp;
 
 Please go easy on the designs -- as I simply threw together these changes in the browser's DOM without much planning (plus engaging in what I'd call 'quasi-theme design' in the browser's DOM limits the extent of what I am reasonably able to do). 
