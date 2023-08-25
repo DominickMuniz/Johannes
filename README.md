@@ -59,7 +59,7 @@ This is screenshot showing the current Collections Page theme design (on the rig
 9) I edited the product recomendation' cards at the bottom of the page -- I added a lightgray border, made the 'Brand Name' and 'Price' bolder, and modified the line-spacing for the product title so it appears slightly closer together (which I thought seemed easier to read). 
 
 
-### Screenshot of Comparison
+### Screenshot of Comparison (Click to enlarge)
 ![Product Page Mockup](./Product%20Page%20Mockup.png)
 
 
