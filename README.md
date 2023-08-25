@@ -4,7 +4,7 @@ Created this page to host a few images of suggested/potential theme updates.
 &nbsp;
 &nbsp;
 
-I checked out your website's overall theme and design -- and looked it over on AHREFs to peek at it's organic performance, and to get an idea of the work already done on it. Overall it's a lovely website with a lot of time and effort put into it. It's growth in regard to organic visibility the last 1-2 years has been great. I noticed a few opportunities to make it even better. A few SEO related things sure -- but today I made this repository to exemplify some possible theme enhancements that are possible to make it POP just a little more. 
+I checked out your website's overall theme and design -- and looked it over on AHREFs to peek at it's organic performance, and to get an idea of the work already done on it. Overall it's a lovely website with a lot of time and effort put into it. It's growth in regard to organic visibility the last 1-2 years has been great. I noticed a few opportunities to make it even better. A few SEO related things sure, that's the easy stuff in my opinion -- but today I made this repository to exemplify some possible theme enhancements to make it POP just a little more. 
 
 &nbsp;
 &nbsp;
