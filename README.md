@@ -33,3 +33,4 @@ This is screenshot showing the current Collections Page theme design (on the rig
 
 &nbsp;
 &nbsp;
+![Collection Page Mockup Annotated](./Collection%20Page%20Mockup%20%28annotated%29.png)
