@@ -28,7 +28,7 @@ This is screenshot showing the current Collections Page theme design (on the rig
 
 
 ### Screenshot of Reflected Text 
-![Screenshot of the feature](/Collection Page Mockup.png)
+![Screenshot of the feature](./Collection Page Mockup.png)
 
 &nbsp;
 &nbsp;
